@@ -233,9 +233,45 @@ Learning through security tools, practical environments and cybersecurity experi
 
 ---
 
+ 
 <div align="center">
 
-### ◈ 05 — THE CURRENT QUEST ◈
+### ◈ 05 — THE PROBLEM-SOLVING ARENA ◈
+
+*Every problem is a puzzle. Every solution is progress.*
+
+<img src="https://img.shields.io/badge/LEETCODE-dear__harshit__01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/GEEKSFORGEEKS-harshit1eeyd-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+</div>
+
+### 🧩 Where logic meets persistence
+
+I'm currently strengthening my problem-solving skills, focusing on Data Structures & Algorithms using Java.
+
+<div align="center">
+
+<a href="https://leetcode.com/u/dear_harshit_01/">
+<img src="https://leetcard.jacoblin.cool/dear_harshit_01?theme=dark&font=Fira%20Code&ext=heatmap" width="95%" alt="LeetCode Profile"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.geeksforgeeks.org/user/harshit1eeyd/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Explore_My_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/dear_harshit_01/">
+<img src="https://img.shields.io/badge/LeetCode-Explore_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+**Current mission:** Think better, write cleaner solutions, and become a stronger problem solver.
+
+---
+
+
 
 *The best version of yourself is always under development.*
 
