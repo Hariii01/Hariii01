@@ -1,361 +1,358 @@
- 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:090914,25:21132E,55:38204D,80:182F50,100:090914&height=250&section=header&text=HARSHIT%20BADYAL&fontSize=52&fontColor=FCE7F3&fontAlignY=40&desc=DEVELOPER%20%2F%20DESIGNER%20%2F%20DREAMER&descSize=16&descColor=F57799&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,25:1B004B,55:5B0E91,80:B300FF,100:FF2D78&height=310&section=header&text=HARSHIT%20BADYAL&fontSize=76&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&stroke=FF2D78&strokeWidth=3&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Security%20Explorer&descSize=19&descColor=FF9DE2&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=F57799&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Hari+%E2%9C%A6;I+turn+ideas+into+experiences.;Python+is+my+language%2C+design+is+my+voice.;A+curious+mind+with+a+creative+soul.;Building+beautiful+things%2C+one+line+at+a+time."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2000&pause=800&color=FF2D78&center=true&vCenter=true&width=820&lines=Hello%2C+I%27m+Hari+%E2%9C%A6;Python+%7C+Tkinter+%7C+Turtle+%7C+Selenium+%7C+BeautifulSoup;Pandas+%7C+NumPy+%7C+Automation+%7C+Web+Scraping+%7C+GUI;DSA+%7C+OOP+%7C+DBMS+%7C+SQL+%7C+Java+%7C+C;Kali+%7C+OSINT+%7C+Nmap+%7C+Burp+Suite+%7C+OWASP+Top+10;Figma+%7C+Canva+%7C+GIMP+%7C+Typography+%7C+UI%2FUX+Design;Where+Logic+meets+Aesthetics+%E2%80%94+that%27s+where+I+live."/>
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/MY_WORLD-badyal.netlify.app-FF2D78?style=for-the-badge&labelColor=03001C&logo=googlechrome&logoColor=FF2D78)](https://badyal.netlify.app)
+[![Project](https://img.shields.io/badge/MY_CREATION-harshya.in-B300FF?style=for-the-badge&labelColor=03001C&logo=googlechrome&logoColor=B300FF)](https://harshya.in)
+[![GitHub](https://img.shields.io/badge/CODE-Hariii01-5B0E91?style=for-the-badge&labelColor=03001C&logo=github&logoColor=white)](https://github.com/Hariii01)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-dear__harshit__01-FF2D78?style=for-the-badge&labelColor=03001C&logo=instagram&logoColor=white)](https://instagram.com/dear_harshit_01)
 
-[![Portfolio](https://img.shields.io/badge/✦_MY_WORLD-badyal.netlify.app-F57799?style=for-the-badge&labelColor=171323)](https://badyal.netlify.app)
-[![Project](https://img.shields.io/badge/✧_MY_CREATION-harshya.in-BB8CFF?style=for-the-badge&labelColor=171323)](https://harshya.in)
-[![Instagram](https://img.shields.io/badge/♡_MY_LITTLE_CORNER-dear__harshit__01-FF6B9D?style=for-the-badge&labelColor=171323)](https://instagram.com/dear_harshit_01)
-
-<br/>
-
-*“Some create with colours, some with code. I fell in love with both.”*
+<img src="https://komarev.com/ghpvc/?username=Hariii01&label=Profile+Views&color=B300FF&style=flat-square"/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,50:B300FF,100:03001C&height=3"/>
+
+<br/>
+
+## 👾 WHO AM I
 
 <div align="center">
 
-### ◈ 00 — THE PERSON BEHIND THE PIXELS ◈
-
-</div>
-
-```text
-                  ┌──────────────────────────────┐
-                  │       IDENTITY FOUND         │
-                  ├──────────────────────────────┤
-                  │  NAME    : Harshit Badyal     │
-                  │  ALIAS   : Hari               │
-                  │  ROLE    : Developer          │
-                  │            Designer          │
-                  │  STUDY   : Computer Science   │
-                  │  BASE    : Jammu, India       │
-                  │  STATUS  : Creating & Learning│
-                  └──────────────────────────────┘
+```
+╔═══════════════════════════════════════════╗
+║        IDENTITY.SH — ACCESS GRANTED  ✓   ║
+╠═══════════════════════════════════════════╣
+║  NAME    Harshit Badyal  (alias: Hari)   ║
+║  ROLE    Dev · Designer · Explorer       ║
+║  BASE    Jammu, India  🇮🇳               ║
+║  FOCUS   Python · Design · Security      ║
+║  STATUS  Creating & learning. 🚀         ║
+╚═══════════════════════════════════════════╝
 ```
 
-Hey, I'm **Harshit**, but you can call me Hari.
+🧠 **`LOGIC.exe`** &rarr; Python &bull; Automation &bull; DSA &bull; Security &bull; SQL &nbsp;&nbsp;&nbsp; 🎨 **`CREATIVE.exe`** &rarr; Figma &bull; Canva &bull; Typography &bull; UI/UX
 
-I'm a Computer Science student, Python developer and designer who enjoys bringing ideas to life.
-
-I spend my time between Python applications, automation, web technologies, security experiments and visual design.
-
-I love understanding how things work, breaking complex ideas into smaller pieces, and turning those pieces into something useful.
-
-**My world has two sides:**
-
-- `LOGIC.exe` — Programming, automation, problem-solving and technology.
-- `CREATIVITY.exe` — Graphic design, typography, interfaces and visual storytelling.
-
-And somewhere between the two, I keep creating.
-
----
-
-<div align="center">
-
-### ◈ 01 — THE DEVELOPER'S WORKBENCH ◈
-
-*Every language is a different way to express an idea.*
+> *"Code with logic. Design with emotion. Ship with purpose."*
 
 </div>
 
-### 🐍 Python — My primary playground
-
-Python is where I enjoy experimenting, developing and solving problems.
-
-| Area | What I've explored |
-|---|---|
-| GUI Development | Tkinter |
-| Graphics & Animation | Turtle |
-| Browser Automation | Selenium |
-| Web Scraping | BeautifulSoup |
-| Data Analysis | Pandas |
-| Numerical Computing | NumPy |
-| Programming Concepts | OOP, functions, exception handling |
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TKINTER-2C5F8A?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/BEAUTIFULSOUP-59666C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-</div>
-
-### ☕ Other programming languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,c,html,css,js&theme=dark"/>
-
-</div>
-
-Java currently has a special place on my workbench.
-
-**Current focus:** Data Structures & Algorithms with Java.
-
----
-
-<div align="center">
-
-### ◈ 02 — THE SECURITY UNDERGROUND ◈
-
-*Curiosity is the first step towards understanding security.*
-
-<img src="https://img.shields.io/badge/ACCESS-RESEARCH_MODE-39FF88?style=for-the-badge&labelColor=101820"/>
-
-</div>
-
-I enjoy exploring how networks, operating systems and web applications work beneath the surface.
-
-**My security toolkit**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/NMAP-4682B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP_TOP_10-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-
-</div>
-
-Things I explore:
-
-- Network discovery and scanning using Nmap.
-- Web application security testing with Burp Suite.
-- OWASP Top 10 vulnerabilities and security concepts.
-- Linux environments and Kali Linux.
-- Ethical hacking fundamentals and security awareness.
-
-*Understand the system. Find the weakness. Learn how to protect it.*
-
----
-
-<div align="center">
-
-### ◈ 03 — THE CREATIVE STUDIO ◈
-
-*Code can build a website. Design makes someone want to stay.*
-
-</div>
-
-This is the part of me that doesn't want everything to look like a typical developer project.
-
-I enjoy designing experiences, experimenting with layouts and making information visually interesting.
-
-**What I create:**
-
-| Creative field | My interests |
-|---|---|
-| Graphic Design | College posters, promotional graphics |
-| Typography | Font combinations, hierarchy, visual rhythm |
-| Colour Theory | Palettes, contrast, composition |
-| Web Design | Website layouts and visual identity |
-| UI/UX | User flows, usability and interface design |
-| Visual Storytelling | Creative concepts and digital experiences |
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,canva,gimp,html,css&theme=dark"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,50:0F2460,100:0EA5E9&height=3"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/DESIGN-WITH_INTENTION-F57799?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CREATE-WITH_EMOTION-BB8CFF?style=for-the-badge"/>
+## 🐍 PYTHON UNIVERSE
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,40:0F2460,100:0EA5E9&height=50&text=PYTHON%20ECOSYSTEM&fontSize=22&fontColor=FFFFFF&fontAlignY=57"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0C1A33"/>
+
+<img src="https://img.shields.io/badge/Tkinter-GUI_Dev-0EA5E9?style=for-the-badge&logo=python&logoColor=white&labelColor=0C4A6E"/>
+<img src="https://img.shields.io/badge/Turtle-Graphics_%26_Animation-06B6D4?style=for-the-badge&logo=python&logoColor=white&labelColor=164E63"/>
+<img src="https://img.shields.io/badge/Automation-Task_Scripting-7C3AED?style=for-the-badge&logo=python&logoColor=white&labelColor=4C1D95"/>
+
+<img src="https://img.shields.io/badge/Selenium-Browser_Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=14532D"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-Web_Scraping-F59E0B?style=for-the-badge&logo=python&logoColor=white&labelColor=78350F"/>
+<img src="https://img.shields.io/badge/Requests-HTTP_Client-EF4444?style=for-the-badge&logo=python&logoColor=white&labelColor=7F1D1D"/>
+
+<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0C0A3E"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=011627"/>
+<img src="https://img.shields.io/badge/OOP-Object_Oriented-8B5CF6?style=for-the-badge&logo=python&logoColor=white&labelColor=4C1D95"/>
 
 </div>
 
-I believe design isn't decoration.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,50:064E3B,100:10B981&height=3"/>
 
-It's the art of making something understandable, memorable and enjoyable.
+<br/>
 
----
+## 💻 LANGUAGES & TECHNOLOGIES
 
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,40:064E3B,100:34D399&height=50&text=OTHER%20LANGUAGES%20%26%20TOOLS&fontSize=22&fontColor=FFFFFF&fontAlignY=57"/>
 
-### ◈ 04 — EXPERIMENTS & CREATIONS ◈
+<img src="https://skillicons.dev/icons?i=java,c,html,css,js,mysql,git,github,vscode,linux&theme=dark"/>
 
-*Ideas are only interesting until you build them.*
+<img src="https://img.shields.io/badge/Java-DSA_%26_OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=78350F"/>
+<img src="https://img.shields.io/badge/C_Language-System_Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=374151"/>
+<img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=7C2D12"/>
+
+<img src="https://img.shields.io/badge/CSS3-Styling_%26_Layouts-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1E3A5F"/>
+<img src="https://img.shields.io/badge/JavaScript-Interactivity-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=713F12"/>
+<img src="https://img.shields.io/badge/MySQL-Database_%26_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1E3A5F"/>
 
 </div>
 
-### My digital projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,50:431407,100:F97316&height=3"/>
 
-**01 — Harshya.in**
+<br/>
 
-<sup>INDEPENDENT WEB PROJECT · DIGITAL EXPERIENCE</sup>
+## 📚 CS FUNDAMENTALS
 
-A project where I'm exploring modern website development, professional design, user experience and digital identity.
-
-[↗ Visit Harshya.in](https://harshya.in)
-
----
-
-**02 — Badyal Portfolio**
-
-<sup>PERSONAL WEBSITE · CREATIVE IDENTITY</sup>
-
-My personal space on the internet, representing my work, creativity and developer journey.
-
-[↗ Explore my portfolio](https://badyal.netlify.app)
-
----
-
-**03 — Python Playground**
-
-<sup>PYTHON · APPLICATIONS · EXPERIMENTS</sup>
-
-A collection of programming experiments and practical projects, including:
-
-- Python Quiz Application
-- Turtle Graphics & Pattern Generator
-- Sweet Shop Management Application
-- Python learning projects
-
-[↗ Explore my repositories](https://github.com/Hariii01?tab=repositories)
-
----
-
-**04 — Security Experiments**
-
-<sup>LINUX · NETWORKING · WEB SECURITY</sup>
-
-Learning through security tools, practical environments and cybersecurity experiments.
-
-[↗ Explore my GitHub](https://github.com/Hariii01)
-
----
-
- 
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,40:431407,100:FB923C&height=50&text=CORE%20CS%20CONCEPTS&fontSize=22&fontColor=FFFFFF&fontAlignY=57"/>
 
-### ◈ 05 — THE PROBLEM-SOLVING ARENA ◈
+<table>
+<tr>
+<td align="center" width="220">
 
-*Every problem is a puzzle. Every solution is progress.*
+<img src="https://img.shields.io/badge/DSA-F59E0B?style=for-the-badge&labelColor=78350F"/>
 
-<img src="https://img.shields.io/badge/LEETCODE-dear__harshit__01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/GEEKSFORGEEKS-harshit1eeyd-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+```
+Arrays · Linked Lists
+Stacks · Queues
+Trees · Graphs · Heaps
+Sorting · Searching · DP
+```
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+
+</td>
+<td align="center" width="220">
+
+<img src="https://img.shields.io/badge/OOP-EC4899?style=for-the-badge&labelColor=831843"/>
+
+```
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
+```
+
+<img src="https://img.shields.io/badge/Python_%26_Java-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+</td>
+<td align="center" width="220">
+
+<img src="https://img.shields.io/badge/DBMS_%26_SQL-8B5CF6?style=for-the-badge&labelColor=4C1D95"/>
+
+```
+ER Diagrams
+Normalization
+SQL Queries
+Transactions
+```
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-### 🧩 Where logic meets persistence
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,50:052E16,100:22C55E&height=3"/>
 
-I'm currently strengthening my problem-solving skills, focusing on Data Structures & Algorithms using Java.
+<br/>
+
+## 🔐 SECURITY UNDERGROUND
 
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,40:052E16,100:22C55E&height=50&text=SECURITY%20LAB&fontSize=22&fontColor=FFFFFF&fontAlignY=57"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=800&color=22C55E&center=true&vCenter=true&width=680&lines=%24+initialising+security_module.sh+--verbose;%24+loading+osint_tools+....+%5BDONE%5D;%24+nmap+-sV+-O+192.168.1.0%2F24+%5BSCANNING%5D;%24+burpsuite+--intercept+--proxy+8080+%5BACTIVE%5D;%24+Access+GRANTED.+Stay+ethical.+%E2%9C%93"/>
+
+```
+  ╔═════════════════════════════════════════════════════════════╗
+  ║           [ SECURITY TOOLKIT  —  RESEARCH MODE ]            ║
+  ╠══════════════════╦══════════════════════════════════════════╣
+  ║  OSINT           ║  Intelligence gathering & recon          ║
+  ║  Kali Linux      ║  Dedicated pen-testing OS environment    ║
+  ║  Nmap            ║  Network scanning & port discovery        ║
+  ║  Burp Suite      ║  Web app traffic interception & testing   ║
+  ║  OWASP Top 10    ║  Critical vulnerability framework         ║
+  ╠══════════════════╩══════════════════════════════════════════╣
+  ║  ⚠️  ETHICS FIRST — Education & research purposes only      ║
+  ╚═════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://img.shields.io/badge/Kali_Linux-Pen_Testing-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/OSINT-Intel_Gathering-22C55E?style=for-the-badge&logo=gnuprivacyguard&logoColor=black&labelColor=052E16"/>
+<img src="https://img.shields.io/badge/Nmap-Network_Scanner-3B82F6?style=for-the-badge&logo=linux&logoColor=white&labelColor=1E3A5F"/>
+<img src="https://img.shields.io/badge/Burp_Suite-Web_Security-F97316?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=431407"/>
+<img src="https://img.shields.io/badge/OWASP_Top_10-Vuln_Framework-EF4444?style=for-the-badge&logo=owasp&logoColor=white&labelColor=7F1D1D"/>
+<img src="https://img.shields.io/badge/Ethical_Hacking-Research-A855F7?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=4C1D95"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,50:4A044E,100:EC4899&height=3"/>
+
+<br/>
+
+## 🎨 DESIGN STUDIO
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,40:4A044E,100:FF2D78&height=50&text=CREATIVE%20TOOLKIT&fontSize=22&fontColor=FFFFFF&fontAlignY=57"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,33:7B00FF,66:00C4FF,100:FF0080&height=48&text=Design+is+not+decoration.+It+is+communication.&fontSize=16&fontColor=FFFFFF&fontAlignY=57"/>
+
+<img src="https://skillicons.dev/icons?i=figma,canva,gimp,html,css,js&theme=dark"/>
+
+<img src="https://img.shields.io/badge/Figma-UI%2FUX_%26_Prototyping-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Canva-Graphic_Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=003366"/>
+<img src="https://img.shields.io/badge/GIMP-Photo_%26_Image_Editing-5C5543?style=for-the-badge&logo=gimp&logoColor=white&labelColor=1A1A1A"/>
+
+<img src="https://img.shields.io/badge/Typography-Font_Pairing_%26_Hierarchy-FF2D78?style=for-the-badge&labelColor=3D0022"/>
+<img src="https://img.shields.io/badge/Colour_Theory-Palettes_%26_Contrast-B300FF?style=for-the-badge&labelColor=2D0045"/>
+<img src="https://img.shields.io/badge/UI%2FUX_Design-Wireframes_%26_Flows-7B2FBE?style=for-the-badge&labelColor=2D0764"/>
+
+<img src="https://img.shields.io/badge/Visual_Storytelling-Concepts_%26_Narratives-EC4899?style=for-the-badge&labelColor=4A1942"/>
+<img src="https://img.shields.io/badge/Web_Design-Layouts_%26_Identity-06B6D4?style=for-the-badge&labelColor=164E63"/>
+<img src="https://img.shields.io/badge/Poster_Design-Print_%26_Digital-F97316?style=for-the-badge&labelColor=431407"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,50:1E0758,100:8B5CF6&height=3"/>
+
+<br/>
+
+## 📊 GITHUB STATS
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,40:1E0758,100:B300FF&height=50&text=GITHUB%20FOOTPRINT&fontSize=22&fontColor=FFFFFF&fontAlignY=57"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hariii01&show_icons=true&theme=tokyonight&bg_color=03001C&title_color=FF2D78&icon_color=B300FF&text_color=F1F5F9&border_color=5B0E91&border_radius=12&rank_icon=github&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariii01&layout=compact&theme=tokyonight&bg_color=03001C&title_color=FF2D78&text_color=F1F5F9&border_color=5B0E91&border_radius=12&langs_count=8"/>
+
+<img width="96%" src="https://streak-stats.demolab.com?user=Hariii01&theme=tokyonight&background=03001C&ring=FF2D78&fire=B300FF&currStreakLabel=FF2D78&sideLabels=FF9DE2&border=5B0E91&border_radius=12&font=JetBrains+Mono"/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hariii01&bg_color=03001C&color=FF9DE2&line=B300FF&point=FF2D78&area=true&area_color=1B004B&radius=12"/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Hariii01&theme=tokyonight&no-frame=false&margin-w=8&column=7"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,50:422006,100:FFA116&height=3"/>
+
+<br/>
+
+## 🧩 DSA ARENA
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,40:422006,100:FFA116&height=50&text=PROBLEM%20SOLVING%20ARENA&fontSize=22&fontColor=FFFFFF&fontAlignY=57"/>
+
+<img src="https://img.shields.io/badge/LeetCode-dear__harshit__01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=422006"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-harshit1eeyd-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=052E16"/>
 
 <a href="https://leetcode.com/u/dear_harshit_01/">
-<img src="https://leetcard.jacoblin.cool/dear_harshit_01?theme=dark&font=Fira%20Code&ext=heatmap" width="95%" alt="LeetCode Profile"/>
+<img src="https://leetcard.jacoblin.cool/dear_harshit_01?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" width="96%"/>
 </a>
 
-<br/><br/>
-
-<a href="https://www.geeksforgeeks.org/user/harshit1eeyd/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Explore_My_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/dear_harshit_01/">
-<img src="https://img.shields.io/badge/LeetCode-Explore_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/Visit_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dear_harshit_01/)
+[![GFG](https://img.shields.io/badge/Visit_GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/harshit1eeyd/)
 
 </div>
 
-**Current mission:** Think better, write cleaner solutions, and become a stronger problem solver.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,50:0F172A,100:38BDF8&height=3"/>
 
----
+<br/>
 
+## 🚀 PROJECTS
 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,40:0F172A,100:38BDF8&height=50&text=EXPERIMENTS%20%26%20CREATIONS&fontSize=22&fontColor=FFFFFF&fontAlignY=57"/>
 
-*The best version of yourself is always under development.*
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/01-HARSHYA.IN-B300FF?style=for-the-badge&labelColor=1B004B&logo=googlechrome&logoColor=white"/>
+
+![Status](https://img.shields.io/badge/LIVE-00C851?style=flat-square)
+![Type](https://img.shields.io/badge/Digital_Experience-B300FF?style=flat-square)
+
+Modern web — design systems, UX & identity.
+`HTML` `CSS` `JS` `Design Systems`
+
+[![Visit](https://img.shields.io/badge/harshya.in-B300FF?style=for-the-badge&labelColor=03001C)](https://harshya.in)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/02-BADYAL%20PORTFOLIO-FF2D78?style=for-the-badge&labelColor=3D0022&logo=googlechrome&logoColor=white"/>
+
+![Status](https://img.shields.io/badge/LIVE-00C851?style=flat-square)
+![Type](https://img.shields.io/badge/Creative_Portfolio-FF2D78?style=flat-square)
+
+Personal portfolio — work & design journey.
+`HTML` `CSS` `UI/UX` `Visual Design`
+
+[![Visit](https://img.shields.io/badge/badyal.netlify.app-FF2D78?style=for-the-badge&labelColor=03001C)](https://badyal.netlify.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/03-PYTHON%20PLAYGROUND-43B02A?style=for-the-badge&labelColor=14532D&logo=python&logoColor=FFD43B"/>
+
+![Status](https://img.shields.io/badge/GROWING-FFA116?style=flat-square)
+
+🧠 Quiz App &bull; 🐢 Turtle Graphics
+🛒 Sweet Shop System &bull; 🤖 Automation
+
+[![Visit](https://img.shields.io/badge/View_Repos-43B02A?style=for-the-badge&logo=github&labelColor=03001C)](https://github.com/Hariii01?tab=repositories)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/04-SECURITY%20LAB-22C55E?style=for-the-badge&labelColor=052E16&logo=hackthebox&logoColor=22C55E"/>
+
+![Status](https://img.shields.io/badge/EXPLORING-22C55E?style=flat-square)
+
+🔍 OSINT &bull; 📡 Nmap &bull; 🕷️ Burp Suite
+🐧 Kali Linux environments
+
+[![Visit](https://img.shields.io/badge/View_GitHub-22C55E?style=for-the-badge&logo=github&labelColor=03001C)](https://github.com/Hariii01)
+
+</td>
+</tr>
+</table>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,50:1B004B,100:B300FF&height=3"/>
+
+<br/>
+
+## ⚡ RUNTIME STATUS
+
+<div align="center">
 
 ```python
-current_quest = {
-    "learning": [
-        "Data Structures & Algorithms",
-        "Java",
-        "Advanced Python",
-        "Problem Solving"
-    ],
-
-    "exploring": [
-        "Automation",
-        "Web Development",
-        "Cybersecurity",
-        "UI/UX Design"
-    ],
-
-    "building": [
-        "Meaningful Projects",
-        "Creative Interfaces",
-        "Better Digital Experiences"
-    ],
-
-    "mission": "Never stop creating."
+harshit = {
+    "learning"  : ["DSA in Java ☕", "Advanced Python 🐍", "Web Security 🔐", "UI/UX 📐"],
+    "building"  : ["Python apps 🤖", "Creative web projects 🌐", "Design portfolio 🎨"],
+    "exploring" : ["Ethical hacking 🕵️", "Open source 🌍", "Generative design ✨"],
+    "fun_fact"  : "I think about design even while writing code. 🤯",
+    "mission"   : "Never stop creating. Never stop learning. 🚀",
 }
 ```
 
----
-
-<div align="center">
-
-### ◈ 06 — THE DIGITAL FOOTPRINT ◈
-
-*Every contribution is a little piece of the journey.*
-
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hariii01&show_icons=true&theme=tokyonight&bg_color=0D0B16&title_color=F57799&icon_color=BB8CFF&text_color=E6EDF3&border_color=493044&rank_icon=github"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariii01&layout=compact&theme=tokyonight&bg_color=0D0B16&title_color=F57799&text_color=E6EDF3&border_color=493044"/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=Hariii01&theme=tokyonight&background=0D0B16&ring=F57799&fire=FF6B9D&currStreakLabel=BB8CFF&sideLabels=F57799&border=493044"/>
-
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### ◈ 07 — A LETTER FROM THE CREATOR ◈
+<img width="68%" src="https://capsule-render.vercel.app/api?type=blur&color=0:03001C,25:1B004B,55:5B0E91,80:B300FF,100:FF2D78&height=130&text=Stay+curious.+Stay+creative.&fontSize=28&fontColor=FFFFFF&fontAlignY=55"/>
 
-<img width="65%" src="https://capsule-render.vercel.app/api?type=blur&color=0:21132E,50:49305E,100:171323&height=110&section=header&text=Stay%20curious.%20Stay%20creative.&fontSize=23&fontColor=FCE7F3"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Hariii01-5B0E91?style=for-the-badge&logo=github&logoColor=white&labelColor=03001C)](https://github.com/Hariii01)
+[![Instagram](https://img.shields.io/badge/Instagram-dear__harshit__01-FF2D78?style=for-the-badge&logo=instagram&logoColor=white&labelColor=03001C)](https://instagram.com/dear_harshit_01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-badyal.netlify.app-B300FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=03001C)](https://badyal.netlify.app)
+[![Project](https://img.shields.io/badge/Project-harshya.in-FF9DE2?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=03001C)](https://harshya.in)
 
-I don't want to be someone who simply knows how to use technology.
+<img src="https://komarev.com/ghpvc/?username=Hariii01&label=Souls+Who+Visited&color=B300FF&style=for-the-badge"/>
 
-I want to understand it, experiment with it, challenge it and create something of my own.
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║   Made with Logic  ✦  Designed with Love  ✦  Built with Fire    ║
+║                        — Harshit Badyal  ♡                      ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
-I write code with logic, approach design with emotion, and believe that even the smallest details deserve attention.
-
-**Because why should technology be functional only, when it can be beautiful too?**
-
-<br/>
-
-### FIND ME IN MY LITTLE CORNER OF THE INTERNET
-
-[![GitHub](https://img.shields.io/badge/GITHUB-Hariii01-181717?style=for-the-badge&logo=github)](https://github.com/Hariii01)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-dear__harshit__01-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/dear_harshit_01)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-BADYAL.NETLIFY.APP-F57799?style=for-the-badge&logo=googlechrome)](https://badyal.netlify.app)
-[![Harshya](https://img.shields.io/badge/PROJECT-HARSHYA.IN-BB8CFF?style=for-the-badge&logo=googlechrome)](https://harshya.in)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Hariii01&label=SOULS+WHO+VISITED&color=F57799&style=flat-square"/>
-
-<br/>
-
-*Made with logic, designed with love, and powered by curiosity.*
-
-**— Harshit Badyal ♡**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090914,35:21132E,70:38204D,100:F57799&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D78,20:B300FF,50:5B0E91,80:1B004B,100:03001C&height=140&section=footer"/>
 
 </div>
