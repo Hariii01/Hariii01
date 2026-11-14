@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/MY_WORLD-badyal.netlify.app-FF2D78?style=for-the-badge&labelColor=03001C&logo=googlechrome&logoColor=FF2D78)](https://badyal.netlify.app)
 [![Project](https://img.shields.io/badge/MY_CREATION-harshya.in-B300FF?style=for-the-badge&labelColor=03001C&logo=googlechrome&logoColor=B300FF)](https://harshya.in)
 [![GitHub](https://img.shields.io/badge/CODE-Hariii01-5B0E91?style=for-the-badge&labelColor=03001C&logo=github&logoColor=white)](https://github.com/Hariii01)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-dear__harshit__01-FF2D78?style=for-the-badge&labelColor=03001C&logo=instagram&logoColor=white)](https://instagram.com/dear_harshit_01)
+
 
 <img src="https://komarev.com/ghpvc/?username=Hariii01&label=Profile+Views&color=B300FF&style=flat-square"/>
 
